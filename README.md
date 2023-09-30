@@ -27,10 +27,10 @@ Please note that specific details about the project, including the data sources,
 
 **FINAL RESULTS**
 Task 1 :-
-![Screenshot 2023-09-30 212815](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/d96f0a2f-207f-4d5f-ab11-a4a4d336c6f4)
-![Screenshot 2023-09-30 212754](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/82a86e0f-00c5-4fbb-81df-25021459ce06)
-
+![TASK1](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/09ad6a14-0baf-4d8b-a63e-420378e5c4fe)
+![TASK 1](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/8926c5d0-0faa-4332-9257-dff0902c816b)
 Task 2:-
-![Screenshot 2023-01-25 001724](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/72b1973f-2633-4fdb-8edb-a91b8a4cf9f5)
-![Screenshot 2023-09-30 213007](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/6d5c6eb7-b14a-4145-a822-b8856fd94576)
+![Screenshot 2023-09-30 212937](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/d77ad3ff-8434-4fef-8529-c45a1fa94658)
+![Screenshot 2023-09-30 213007](https://github.com/Chandra-Paidimukkal/British_Airways_Virtual_Internship_Project/assets/93418203/f4074dc1-9318-498d-af3f-5fb6a197b35d)
+
 
